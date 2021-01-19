@@ -1,0 +1,21 @@
+h1 {
+    font-size: 35px;
+    text-shadow: 2px 2px fuchsia;
+    color: aquamarine;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+p {
+    text-shadow: 2px 2px hotpink;
+    color: chocolate;
+    font-size: 23;
+}
+#thank{
+    font-size: 56;
+    font-family: fantasy;
+    text-shadow: 2px 2px olive;
+    color: beige;
+}
